@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 12 15:32:44 2019
 
-@author: LAING3
+@author: Gabriel Lainesse (GLayne)
 """
 import Fuzzy
 import tkinter as tk
