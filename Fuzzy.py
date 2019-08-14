@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  4 09:44:40 2019
 
-@author: LAING3
+@author: Gabriel Lainesse (GLayne)
 """
 # imports
 import pandas as pd
